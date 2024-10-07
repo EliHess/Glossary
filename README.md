@@ -115,3 +115,5 @@ Here, we collect definitions of important concepts
 **Linear Regression**: A type of supervised learning algorithm that optimizes a linear function to data points. 
 
 **Gradient Boosting**: A machine learning technique used for regression and classification tasks that builds an ensemble of weak learners, typically decision trees, where each new model corrects the errors of the previous ones in an iterative manner.
+
+**Transfer Learning**: Transfer learning is a machine learning technique where a model developed for one task is reused as the starting point for a model on a second, related task, allowing faster training and better performance when labeled data is scarce.
